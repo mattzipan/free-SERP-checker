@@ -1,5 +1,4 @@
 # Free SERP checker Python script
-![image](/images/free-serp-checker-python-script-hero.png)
 This is a Python script to perform a web search on Google and return the position of a certain domain from the search results. It is based on Serpstacks API, which offers 100 free requests per month.
 
 The code has been originally created in Google Colab.
